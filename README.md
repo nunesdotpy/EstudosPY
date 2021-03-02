@@ -1,2 +1,3 @@
 # PycharmProjects
- meus projetos em python :)
+###
+ meus estudos em python :)
